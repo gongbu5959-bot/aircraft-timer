@@ -1,0 +1,4 @@
+gradio>=5,<7
+fastapi
+uvicorn
+httpx
